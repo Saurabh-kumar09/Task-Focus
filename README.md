@@ -1,6 +1,9 @@
 # todo_app
 
-A new Flutter project.
+A todo app built using flutter with several functionalities
+### 1. Add task
+### 2. Delete Task
+### 3. Search option
 
 ## Getting Started
 
