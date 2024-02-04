@@ -5,6 +5,12 @@ A todo app built using flutter with several functionalities
 ### 2. Delete Task
 ### 3. Search option
 
+## Live Link
+[task-focus-live link](https://ask-gpt.netlify.app/#/) </br>
+
+It's a frontend application built using flutter.
+Further enhancement: Integrate this ToDo app with Hive, a Local NoQuery Database.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
